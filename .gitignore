@@ -1,0 +1,21 @@
+# API keys
+.env
+
+# Vector store (large, regenererbar)
+chroma_db/
+
+# PDF (upphovsrätt)
+data/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
